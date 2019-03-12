@@ -3470,11 +3470,13 @@ input, select, textarea {
 				#banner .content header h2 {
 					font-size: 2.5em;
 					margin: 0;
+					text-align: center;
 				}
 
 				#banner .content header p {
 					margin: 0.5em 0 0 0;
 					top: 0;
+					text-align: center;
 				}
 
 			#banner .content .image {
@@ -3482,6 +3484,8 @@ input, select, textarea {
 				display: inline-block;
 				height: 18em;
 				margin-left: 3em;
+				margin-top: 3%;
+				margin-right: 37.3%;
 				vertical-align: middle;
 				width: 18em;
 			}
