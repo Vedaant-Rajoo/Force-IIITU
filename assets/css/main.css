@@ -4072,3 +4072,8 @@ input, select, textarea {
 					}
 
 	}
+
+#directorsir, #divyanshsir{
+	max-width: 400px;
+
+}
